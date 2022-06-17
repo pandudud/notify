@@ -1,6 +1,6 @@
 {
-    "name": "codecourse/notify",
-    "description": "Flexible flash notifications for Laravel",
+    "name": "pandudud/notify",
+    "description": "Duplicate from codecourse/notify",
     "license": "MIT",
     "authors": [
         {
